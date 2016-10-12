@@ -1,2 +1,2 @@
 # testproject
-Just a test project
+Just following the tutorial :D
